@@ -1,4 +1,4 @@
-# 💡 Day 6 of 100 – #100DaysOfCode
+# 💡 Day 8 of 100 – #100DaysOfCode
 
 ## ✅ Today's Progress:
 - Continued hands-on practice with Python in a Jupyter Notebook.
